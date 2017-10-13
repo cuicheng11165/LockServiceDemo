@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace LockServiceDemo
 {
-    public class Class1
+    public class LockService
     {
+
     }
 }
