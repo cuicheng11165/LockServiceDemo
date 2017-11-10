@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dele",
+				"deleteImageAction"
+			],
+			[
+				"edit",
+				"editImageAction"
+			],
+			[
+				"eidtI",
+				"editImageAction"
+			],
+			[
+				"on",
+				"onChangeCallback"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/d/code/github/LockServiceDemo/SqlRepository/Class1.cs",
+			"settings":
+			{
+				"buffer_size": 5222,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/csharp.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/csharp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/csharp.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/csharp.sublime-build",
+					"ReBuild"
+				]
+			],
+			[
+				"Packages/User/csharp.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/code/github/LockServiceDemo",
+		"/D/code/github/LockServiceDemo/SqlRepository"
+	],
+	"file_history":
+	[
+		"/D/code/github/LockServiceDemo/sublimeproject.sublime-project",
+		"/C/Users/ccui/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/C/Users/ccui/AppData/Roaming/Sublime Text 3/Packages/User/csharp.sublime-build",
+		"/D/code/github/LockServiceDemo/SqlRepository/Class1.cs",
+		"/C/Users/ccui/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/D/code/RedLock.net/RedLockNet.Abstractions.Shared/IRedLock.cs",
+		"/E/GAO/gauto/Web/Controllers/Account/AccountController.cs",
+		"/E/GE/Web/Scripts/Pages/Gao/changeGroupRequest.js",
+		"/E/GE/Web/Scripts/components/renderMetadataGroup.js",
+		"/E/GE/Web/Scripts/Pages/Gao/creategrouprequest.js",
+		"/E/GE/Web/Scripts/components/renderItem.js",
+		"/E/GE/Web/Scripts/Pages/Board/gaoGroups.js",
+		"/E/python/getFiles.py",
+		"/E/GE/Web/Scripts/Pages/Group/createGroup.js",
+		"/E/GE/Web/Scripts/Pages/Board/createBoard.js",
+		"/E/GE/Web/Scripts/Api/Helper/helper.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"/usr/bin/",
+			"xbuild",
+			"lockKeepaliveTimer",
+			"GetRemainingValidityTicks",
+			"validityTicks",
+			"Lock",
+			"Acquire",
+			"Aquire",
+			"quorumRetryCount",
+			"Acquire",
+			"Start",
+			"StringSetAsync",
+			"LockInstance",
+			"Lock",
+			"Acquire",
+			"Acquire ",
+			"Acquire",
+			"Start",
+			"avai",
+			"renderAvailableMetadataDropDownList",
+			"false",
+			"RenderDropDownItem",
+			"principalPicker",
+			"item",
+			"principalPicker",
+			"Add",
+			"_owners",
+			"onKeyUp",
+			"principal",
+			"onKeyUp",
+			"RenderPrincipalItem",
+			"type:",
+			"type",
+			"chagegroup",
+			"\\",
+			".js",
+			"E:\\GE\\Web\\",
+			"E:\\GE\\Web\\Scripts\\",
+			"_renderBoardType",
+			".save",
+			"save",
+			"groupImageSetting",
+			"deleteImageAction",
+			"_renderGroupImageEditor",
+			"ImageEd",
+			"groupI",
+			"groupimage",
+			"dialog",
+			"_renderGroupImageEditor",
+			"_renderGroupName",
+			"updategroup",
+			"keydown",
+			"1",
+			"_renderAllowExternalSenders",
+			"_renderGroupName",
+			"0",
+			"_renderPrivacy",
+			"_renderGroupImageEditor",
+			"save",
+			"_renderGroupImageEditor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin",
+			"msbuild",
+			"Remove",
+			"/",
+			".js\"></script>",
+			"<script src=\"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/d/code/github/LockServiceDemo/SqlRepository/Class1.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1752,
+								1752
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 402.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 285.0
+	},
+	"pinned_build_system": "Packages/User/csharp.sublime-build",
+	"project": "sublimeproject.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"iredlock",
+				"RedLockNet.Abstractions.Shared\\IRedLock.cs"
+			],
+			[
+				"redlock",
+				"RedLockNet.SERedis.Shared\\RedLock.cs"
+			],
+			[
+				"redlockfactory",
+				"RedLockNet.SERedis.Shared\\RedLockFactory.cs"
+			],
+			[
+				"accoutco",
+				"Web\\Controllers\\Account\\AccountController.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

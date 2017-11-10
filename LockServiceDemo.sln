@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockServiceDemo", "LockServiceDemo\LockServiceDemo.csproj", "{954FD078-7D28-4E46-9EEC-5CC65633DF05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlRepository", "SqlRepository\SqlRepository.csproj", "{FF72B548-C013-4951-BAB2-425410C90C2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{954FD078-7D28-4E46-9EEC-5CC65633DF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{954FD078-7D28-4E46-9EEC-5CC65633DF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{954FD078-7D28-4E46-9EEC-5CC65633DF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF72B548-C013-4951-BAB2-425410C90C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF72B548-C013-4951-BAB2-425410C90C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF72B548-C013-4951-BAB2-425410C90C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF72B548-C013-4951-BAB2-425410C90C2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
